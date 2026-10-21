@@ -1,0 +1,5 @@
+# JitPack のビルド設定。sample は公開しない
+jdk:
+  - openjdk17
+install:
+  - ./gradlew :goalong:publishToMavenLocal :goalong-compose:publishToMavenLocal -PgoalongVersion=$VERSION

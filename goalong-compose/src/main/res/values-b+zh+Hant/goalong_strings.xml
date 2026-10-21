@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ios/Sources/GoAlong/Localization.swift と同じ文言。キーを増やすときは 4 言語すべてに足す -->
+<resources>
+    <string name="goalong_collapsed">輸入推薦碼</string>
+    <string name="goalong_entry_title">推薦碼</string>
+    <string name="goalong_close">關閉</string>
+    <string name="goalong_input_title">有推薦碼嗎？</string>
+    <string name="goalong_placeholder">輸入代碼（例：MIKA）</string>
+    <string name="goalong_skip">稍後</string>
+    <string name="goalong_applied_no_creator">已套用代碼</string>
+    <string name="goalong_perk_preview">使用此代碼可獲得 %1$s</string>
+    <string name="goalong_error_format">請輸入 3–20 個半形英數字</string>
+    <string name="goalong_error_not_found">找不到此代碼，請確認輸入內容</string>
+    <string name="goalong_error_conflict">已套用其他推薦碼</string>
+    <string name="goalong_error_existing_subscriber">您已訂閱付費方案，因此無法使用此推薦碼</string>
+    <string name="goalong_replace">改用此代碼</string>
+    <string name="goalong_error_expired">此代碼已過期</string>
+    <string name="goalong_error_network">連線失敗，請稍後再試</string>
+    <string name="goalong_current_referral_no_creator">已套用推薦碼</string>
+    <string name="goalong_removed_notice">已取消推薦。可輸入其他代碼重新套用</string>
+    <string name="goalong_use_this_code">使用此代碼</string>
+    <string name="goalong_retry">再試一次</string>
+    <string name="goalong_perk_granted">已套用 %1$s</string>
+    <string name="goalong_perk_valid_until">可使用至 %1$s</string>
+    <string name="goalong_perk_pending">登入後即可領取優惠</string>
+</resources>
