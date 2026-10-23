@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ios/Sources/GoAlong/Localization.swift と同じ文言。キーを増やすときは 4 言語すべてに足す -->
+<resources>
+    <string name="goalong_collapsed">추천 코드 입력</string>
+    <string name="goalong_entry_title">추천 코드</string>
+    <string name="goalong_close">닫기</string>
+    <string name="goalong_input_title">추천 코드가 있으신가요?</string>
+    <string name="goalong_placeholder">코드 입력 (예: MIKA)</string>
+    <string name="goalong_skip">나중에</string>
+    <string name="goalong_applied_no_creator">코드가 적용되었습니다</string>
+    <string name="goalong_perk_preview">이 코드로 %1$s</string>
+    <string name="goalong_error_format">영문·숫자 3~20자로 입력해 주세요</string>
+    <string name="goalong_error_not_found">코드를 찾을 수 없습니다. 입력 내용을 확인해 주세요</string>
+    <string name="goalong_error_conflict">다른 추천 코드가 이미 적용되어 있습니다</string>
+    <string name="goalong_error_existing_subscriber">유료 플랜을 이용 중이어서 이 추천 코드는 사용할 수 없습니다</string>
+    <string name="goalong_replace">이 코드로 변경</string>
+    <string name="goalong_error_expired">유효 기간이 지난 코드입니다</string>
+    <string name="goalong_error_network">통신에 실패했습니다. 잠시 후 다시 시도해 주세요</string>
+    <string name="goalong_current_referral_no_creator">추천 코드가 적용되어 있습니다</string>
+    <string name="goalong_removed_notice">추천을 취소했습니다. 다른 코드를 입력해 다시 적용할 수 있습니다</string>
+    <string name="goalong_use_this_code">이 코드 사용</string>
+    <string name="goalong_retry">다시 시도</string>
+    <string name="goalong_perk_granted">%1$s 적용됨</string>
+    <string name="goalong_perk_valid_until">%1$s까지 이용 가능</string>
+    <string name="goalong_perk_pending">혜택은 로그인 후 받을 수 있습니다</string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ios/Sources/GoAlong/Localization.swift と同じ文言。キーを増やすときは 4 言語すべてに足す -->
+<resources>
+    <string name="goalong_collapsed">Enter a referral code</string>
+    <string name="goalong_entry_title">Referral code</string>
+    <string name="goalong_close">Close</string>
+    <string name="goalong_input_title">Have a referral code?</string>
+    <string name="goalong_placeholder">Enter code (e.g. MIKA)</string>
+    <string name="goalong_skip">Not now</string>
+    <string name="goalong_applied_no_creator">Code applied</string>
+    <string name="goalong_perk_preview">This code gives you %1$s</string>
+    <string name="goalong_error_format">Use 3–20 letters or numbers</string>
+    <string name="goalong_error_not_found">Code not found. Please check and try again.</string>
+    <string name="goalong_error_conflict">A different referral code is already applied</string>
+    <string name="goalong_error_existing_subscriber">This code can\'t be used because you already have a paid subscription</string>
+    <string name="goalong_replace">Use this code instead</string>
+    <string name="goalong_error_expired">This code has expired</string>
+    <string name="goalong_error_network">Connection failed. Please try again later.</string>
+    <string name="goalong_current_referral_no_creator">Referral code applied</string>
+    <string name="goalong_removed_notice">Referral removed. You can enter a different code.</string>
+    <string name="goalong_use_this_code">Use this code</string>
+    <string name="goalong_retry">Try again</string>
+    <string name="goalong_perk_granted">%1$s applied</string>
+    <string name="goalong_perk_valid_until">Available until %1$s</string>
+    <string name="goalong_perk_pending">You\'ll get your perk after you log in</string>
+</resources>

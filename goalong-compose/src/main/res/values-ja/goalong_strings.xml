@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ios/Sources/GoAlong/Localization.swift と同じ文言。キーを増やすときは 4 言語すべてに足す -->
+<resources>
+    <string name="goalong_collapsed">紹介コードを入力する</string>
+    <string name="goalong_entry_title">紹介コード</string>
+    <string name="goalong_close">閉じる</string>
+    <string name="goalong_input_title">紹介コードをお持ちですか?</string>
+    <string name="goalong_placeholder">コードを入力（例: MIKA）</string>
+    <string name="goalong_skip">あとで</string>
+    <string name="goalong_applied_no_creator">コードを適用しました</string>
+    <string name="goalong_perk_preview">このコードで %1$s</string>
+    <string name="goalong_error_format">半角英数字 3〜20 文字で入力してください</string>
+    <string name="goalong_error_not_found">コードが見つかりません。入力内容を確認してください</string>
+    <string name="goalong_error_conflict">別の紹介コードが適用済みです</string>
+    <string name="goalong_error_existing_subscriber">有料プランをご契約中のため、この紹介コードはご利用いただけません</string>
+    <string name="goalong_replace">このコードに変更する</string>
+    <string name="goalong_error_expired">このコードは有効期限が切れています</string>
+    <string name="goalong_error_network">通信に失敗しました。時間をおいてお試しください</string>
+    <string name="goalong_current_referral_no_creator">紹介コードは適用済みです</string>
+    <string name="goalong_removed_notice">紹介を取り消しました。別のコードを入力して再適用できます</string>
+    <string name="goalong_use_this_code">このコードを使う</string>
+    <string name="goalong_retry">もう一度試す</string>
+    <string name="goalong_perk_granted">%1$s が適用されました</string>
+    <string name="goalong_perk_valid_until">%1$s まで利用できます</string>
+    <string name="goalong_perk_pending">特典はログイン後に受け取れます</string>
+</resources>
